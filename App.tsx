@@ -118,7 +118,7 @@ const App: React.FC = () => {
           key={bg}
           className="fixed inset-0 z-0 transition-opacity duration-[3000ms] ease-in-out pointer-events-none"
           style={{
-            backgroundImage: `url("${bg}")`,
+            backgroundImage: `url("${encodeURI(bg)}")`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             opacity: bgIndex === index ? 1 : 0,
