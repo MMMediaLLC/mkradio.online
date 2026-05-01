@@ -6,7 +6,7 @@ import Visualizer from './components/Visualizer';
 import { SONGS_PLAYLIST, TRANSLATIONS } from './constants';
 import { Song, Language } from './types';
 
-const STREAM_URL = "https://folk.mkradio.online/listen/mk-folk-radio/radio.mp3";
+const STREAM_URL = "/radio";
 const SONG_ROTATION_INTERVAL = 40000;
 const BG_ROTATION_INTERVAL = 60000;
 const FADE_DURATION = 5000;
