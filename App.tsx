@@ -16,15 +16,15 @@ const BACKGROUNDS = [
   "https://gostivarpress.mk/wp-content/uploads/2024/11/sv.varvara-s-5-1024x683.jpg",
   "https://gostivarpress.mk/wp-content/uploads/2024/11/sv.varvara-s-1.jpg",
   "https://gostivarpress.mk/wp-content/uploads/2024/03/1-1.jpg",
-  "/images/мкрадио (1).jpg",
-  "/images/мкрадио (2).jpg",
-  "/images/мкрадио (3).jpg",
-  "/images/мкрадио (4).jpg",
-  "/images/мкрадио (5).jpg",
-  "/images/мкрадио (6).jpg",
-  "/images/мкрадио (7).jpg",
-  "/images/мкрадио (8).jpg",
-  "/images/мкрадио (9).jpg"
+  "/images/мкрадио%20(1).jpg",
+  "/images/мкрадио%20(2).jpg",
+  "/images/мкрадио%20(3).jpg",
+  "/images/мкрадио%20(4).jpg",
+  "/images/мкрадио%20(5).jpg",
+  "/images/мкрадио%20(6).jpg",
+  "/images/мкрадио%20(7).jpg",
+  "/images/мкрадио%20(8).jpg",
+  "/images/мкрадио%20(9).jpg"
 ];
 
 const App: React.FC = () => {
