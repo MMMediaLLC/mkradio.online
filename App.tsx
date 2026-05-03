@@ -16,15 +16,15 @@ const BACKGROUNDS = [
   "https://gostivarpress.mk/wp-content/uploads/2024/11/sv.varvara-s-5-1024x683.jpg",
   "https://gostivarpress.mk/wp-content/uploads/2024/11/sv.varvara-s-1.jpg",
   "https://gostivarpress.mk/wp-content/uploads/2024/03/1-1.jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(1).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(2).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(3).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(4).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(5).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(6).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(7).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(8).jpg",
-  "/images/%D0%BC%D0%BA%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%20(9).jpg"
+  "/images/mkradio%20(1).jpg",
+  "/images/mkradio%20(2).jpg",
+  "/images/mkradio%20(3).jpg",
+  "/images/mkradio%20(4).jpg",
+  "/images/mkradio%20(5).jpg",
+  "/images/mkradio%20(6).jpg",
+  "/images/mkradio%20(7).jpg",
+  "/images/mkradio%20(8).jpg",
+  "/images/mkradio%20(9).jpg"
 ];
 
 const App: React.FC = () => {
